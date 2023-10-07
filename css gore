@@ -1,0 +1,7 @@
+.btns
+{
+background: #342659ff;
+color: white;
+filter: drop-shadow(1px 20px 12px rgba(64, 0, 159, 0.5));
+height: 40px;
+}
